@@ -1,0 +1,6 @@
+venv/
+doses.db
+__pycache__/
+.env
+run.ps1
+*.log
